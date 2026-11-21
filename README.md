@@ -1,16 +1,41 @@
-## Hi there 👋
+### `~ $ whoami`
 
-<!--
-**hosseinmalousi/hosseinmalousi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+hossein — open-source maintainer
+```
 
-Here are some ideas to get you started:
+### `~ $ ls projects --sort=stars`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
+<tbody>
+<tr><td align="left"><a href="https://github.com/hosseinmalousi/TODO-list-in-CLI-python">TODO-list-in-CLI-python</a></td><td align="left">—</td><td align="right">0</td></tr>
+</tbody>
+</table>
+
+### `~ $ cat stack.txt`
+
+```text
+python      ████████████████████ 100%
+```
+
+### `~ $ ls -t projects | head -5`
+
+```text
+2026-09-16  TODO-list-in-CLI-python
+```
+
+### `~ $ stats`
+
+```text
+repositories   7
+stars          0
+followers      0
+contributions  86 (last 12 months)
+```
+
+### `~ $ contact`
+
+<a href="https://github.com/hosseinmalousi">GitHub</a>
+
+<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
